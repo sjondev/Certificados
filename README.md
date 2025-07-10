@@ -24,3 +24,9 @@
    (https://balta.io/certificados/5a828b18-e4b0-40de-9173-a57883bdab5c)
   
 </details>
+
+<details>
+  <summary>📜 Udemy</summary>
+  Mentoria: (https://www.udemy.com/certificate/UC-3E754305-38f0-4c82-b4fe-67c5c5ea2e90/)
+  
+</details>
