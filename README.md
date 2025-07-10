@@ -3,19 +3,26 @@
 ## 🎓 Certificados
 
 <details>
-  <summary>📜 Curso do Balta.io - Fundamentos do C#</summary>
+  <summary>📜 Curso do Balta.io </summary>
+    Fundamentos do C#
+    (https://balta.io/certificados/b0b619d6-01bb-4ab8-96be-b9db4f19517e)
 
-  **Plataforma:** [balta.io](https://balta.io)  
-  **Curso:** Fundamentos do C#  
-  **Conteúdo abordado:**
-  - Sintaxe básica da linguagem
-  - Tipos primitivos
-  - Controle de fluxo (if, switch, loops)
-  - Funções e métodos
-  - Classes e objetos
-  - Introdução à orientação a objetos (OOP)
+   Fundamentos de Orientação a Objetos
+   (https://balta.io/certificados/5daef9d4-5d9f-43cd-971a-1d63c92a2b39)
 
-  **Status:** Concluído ✅  
-  **Certificado:** [Clique aqui para visualizar](https://balta.io/certificados/b0b619d6-01bb-4ab8-96be-b9db4f19517e)
+   Acesso a dados com C#, .NET Dapper e SQL Server
+   (https://balta.io/certificados/c6d28d19-5d68-4b10-b9a1-6ae89f1ccb67)
 
+   Fundamentos do SQL Server
+   (https://balta.io/certificados/12c96d39-6432-46c2-9391-cefeb29bbabf)
+
+   Fundamentos do EntityFramework
+   (https://balta.io/certificados/891b1954-15e4-449e-bf82-3a9d0aced484)
+
+   Fundamentos do ASP.NET 6
+   (https://balta.io/certificados/5b80d1c8-3114-4fb6-9599-ed6de9ff9214)
+
+   Visão geral sobre ASP.NET e Razor Pages
+   (https://balta.io/certificados/5a828b18-e4b0-40de-9173-a57883bdab5c)
+  
 </details>
