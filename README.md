@@ -1,5 +1,3 @@
-# Certificados
-
 ## 🎓 Certificados
 
 <details>
