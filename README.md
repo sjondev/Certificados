@@ -16,6 +16,6 @@
   - Introdução à orientação a objetos (OOP)
 
   **Status:** Concluído ✅  
-  **Certificado:** [Clique aqui para visualizar](#coloque-o-link-do-certificado-aqui)
+  **Certificado:** [Clique aqui para visualizar](https://balta.io/certificados/b0b619d6-01bb-4ab8-96be-b9db4f19517e)
 
 </details>
