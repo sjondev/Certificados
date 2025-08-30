@@ -22,6 +22,9 @@
 
    Visão geral sobre ASP.NET e Razor Pages
    (https://balta.io/certificados/5a828b18-e4b0-40de-9173-a57883bdab5c)
+
+   Trabalho em equipe
+   (https://balta.io/certificados/b26ebf9d-2707-4c18-ba22-b2bcddca9824)
   
 </details>
 
